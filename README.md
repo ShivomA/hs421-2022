@@ -1,1 +1,1 @@
-# hs421-2022
+# HS 421: Econometric Data Science
